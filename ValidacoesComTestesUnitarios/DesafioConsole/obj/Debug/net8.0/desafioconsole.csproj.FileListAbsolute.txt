@@ -1,0 +1,14 @@
+C:\Programação\ws-vscode\Desafio\DesafioConsole\obj\Debug\net8.0\desafioconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\ws-vscode\Desafio\DesafioConsole\obj\Debug\net8.0\desafioconsole.AssemblyInfoInputs.cache
+C:\Programação\ws-vscode\Desafio\DesafioConsole\obj\Debug\net8.0\desafioconsole.AssemblyInfo.cs
+C:\Programação\ws-vscode\Desafio\DesafioConsole\obj\Debug\net8.0\desafioconsole.csproj.CoreCompileInputs.cache
+C:\Programação\ws-vscode\Desafio\DesafioConsole\bin\Debug\net8.0\desafioconsole.exe
+C:\Programação\ws-vscode\Desafio\DesafioConsole\bin\Debug\net8.0\desafioconsole.deps.json
+C:\Programação\ws-vscode\Desafio\DesafioConsole\bin\Debug\net8.0\desafioconsole.runtimeconfig.json
+C:\Programação\ws-vscode\Desafio\DesafioConsole\bin\Debug\net8.0\desafioconsole.dll
+C:\Programação\ws-vscode\Desafio\DesafioConsole\bin\Debug\net8.0\desafioconsole.pdb
+C:\Programação\ws-vscode\Desafio\DesafioConsole\obj\Debug\net8.0\desafioconsole.dll
+C:\Programação\ws-vscode\Desafio\DesafioConsole\obj\Debug\net8.0\refint\desafioconsole.dll
+C:\Programação\ws-vscode\Desafio\DesafioConsole\obj\Debug\net8.0\desafioconsole.pdb
+C:\Programação\ws-vscode\Desafio\DesafioConsole\obj\Debug\net8.0\desafioconsole.genruntimeconfig.cache
+C:\Programação\ws-vscode\Desafio\DesafioConsole\obj\Debug\net8.0\ref\desafioconsole.dll
